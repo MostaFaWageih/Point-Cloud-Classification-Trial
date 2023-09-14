@@ -8,3 +8,12 @@ Below are some valuable resources related to Point Cloud Classification and Poin
 4. [ScienceDirect Article](https://www.sciencedirect.com/science/article/pii/S092658052100443X?casa_token=cNgUXiqxhEwAAAAA:F6yXqt5cITdS6-Ss-6rUUuPYkB-g4DqOiZSv1X-FPKRftnPDOV00BW828l5bjiitSWjDPtb_2g#f0030)
 5. [Stanford PointNet](http://stanford.edu/~rqi/pointnet/)
 
+## Recommended Videos
+
+Here are some recommended video resources related to Point Cloud Classification and PointNet:
+
+7. [Video: Point Cloud Classification](https://www.youtube.com/watch?v=eAJZzN_Yq-I&ab_channel=NicolaiNielsen)
+8. [Video: PointNet Explained](https://www.youtube.com/watch?v=_py5pcMfHoc&ab_channel=MinimalDebug)
+
+
+
